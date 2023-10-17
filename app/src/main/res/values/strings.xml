@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kelas3</string>
+    <string name="nma_app">Weather</string>
+    <string name="stat">Hujan</string>
+    <string name="suh">38°C</string>
+    <string name="tempt">Jogja</string>
+    <string name="alamt">Kasihan</string>
+</resources>
